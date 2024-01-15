@@ -1,4 +1,5 @@
 DSA res recommendation from Instagram
 
 csvistool.com
-visualgo.net
+https://visualgo.net/en
+https://csvistool.com/
